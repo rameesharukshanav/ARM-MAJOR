@@ -83,5 +83,5 @@ This project recreates that architecture on a small scale using **three LPC2129 
 - Migrate to a CAN-FD capable controller for higher data rates
 
 ## Author
+RAMEESHA RUKSHANA A
 
-Rajalakshmi.s
